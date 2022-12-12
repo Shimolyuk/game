@@ -1,0 +1,73 @@
+ export const quizArray = [ 
+    {
+        question: "Question 1: How many active players are there in Minecraft in 2022?",
+        a: "About 1 million",
+        b: "Not more than 8 million",
+        c: "About 17 million",
+        correct: "c",
+    },
+    {
+        question: "Question 2: What exactly is the end of the game in Minecraft?",
+        a: "Nobody knows",
+        b: "Get to a dark void where dragon lives",
+        c: "Kill all inhabitans and players",
+        correct: "b",
+    },
+    {
+        question: "Question 3: What is the most valuable item in Minecraft?",
+        a: "Ruby Stone",
+        b: "Enchanted Golden Apple",
+        c: "Smooth basalt",
+        correct: "b",
+    },
+    {
+        question: "Question 4: Who is the author of the Minecraft?",
+        a: "Markus Persson",
+        b: "Bill Gates",
+        c: "George R. R. Martin",
+        correct: "a",
+    },
+    {
+        question: "Question 5: What programming language was Minecraft developed in?",
+        a: "JavaScript",
+        b: "Java",
+        c: "Python",
+        correct: "b",
+    },
+    {
+        question: "Question 6: How much money has Minecraft generated in 2022?",
+        a: "$71 million",
+        b: "$35 million",
+        c: "Nothing, because it's free game",
+        correct: "a",
+    },
+    {
+        question: "Question 7: What year minecraft came out?",
+        a: "2000",
+        b: "2009",
+        c: "2015",
+        correct: "b",
+    },
+    {
+        question: "Question 8: What country was Minecraft created at?",
+        a: "USA",
+        b: "Sweden",
+        c: "Saudi Arabia",
+        correct: "b",
+    },
+    {
+        question: "Question 9: Was Minecraft created in 6 days?",
+        a: "Yes",
+        b: "No",
+        c: "The first version only",
+        correct: "c",
+    },
+    {
+        question: "Question 10: Has Minecraft been included in school program?",
+        a: "No",
+        b: "Yes",
+        c: "Yes, in Sweden",
+        correct: "c",
+    },
+];
+
